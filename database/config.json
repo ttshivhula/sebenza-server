@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "tshilidzitshivhula",
+    "password": "960214Pboy",
+    "database": "social_dev",
+    "host": "localhost",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "social_test",
+    "host": "mysql",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "",
+    "dialect": "postgres",
+    "timezone": "+02:00"
+  }
+}
